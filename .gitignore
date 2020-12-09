@@ -1,5 +1,5 @@
 /venv
 .idea
-relationship/.env
-relationship/media/
-relationship/db.sqlite3
+backend/.env
+backend/media/
+backend/db.sqlite3
